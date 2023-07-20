@@ -1,4 +1,4 @@
-package Model;
+package com.springbootuploadcsvfile.SpringBootUploadCSVfile.Model;
 
 
 import javax.persistence.Column;
